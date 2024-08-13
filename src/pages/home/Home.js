@@ -8,7 +8,7 @@ function Home() {
   return (
     <div className="Home">
       <Hero />
-      <section className="collection container">
+      {/* <section className="collection container">
         <div className="info">
           <h2 className="heading">Shop By Categories</h2>
           <p className="subheading">
@@ -38,7 +38,7 @@ function Home() {
         <Product />
 
         </div>
-      </section>
+      </section> */}
     </div>
   );
 }

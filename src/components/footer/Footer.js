@@ -47,7 +47,7 @@ function Footer() {
                     <div className="credit-card-img">
                         <img src={creditCardImg} alt="credit card img" />
                     </div>
-                    <p>Copyright {new Date().getFullYear()} © <strong>Posterz.</strong></p>
+                    <p>Copyright {new Date().getFullYear()} © <strong>HỌC VIỆN KỸ THUẬT QUÂN SỰ</strong></p>
                 </div>
             </div>
         </footer>

@@ -7,11 +7,11 @@ function Hero() {
   return (
     <div className="Hero">
       <div className="hero-content center">
-        <h2 className="heading">Exclusive Print and Artwork</h2>
+        <h2 className="heading">Web Demo nhóm 1</h2>
         <p className="subheading">
-          Exclusive Art Pieces, for the Exclusive You.
+          Viện Công nghệ thông tin
         </p>
-        <button onClick={() => navigate('/category')} className="cta btn-primary">
+        <button onClick={() => navigate('/')} className="cta btn-primary">
                 Explore more</button>
       </div>
     </div>

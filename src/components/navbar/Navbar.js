@@ -11,7 +11,7 @@ function Navbar() {
     <nav className="Navbar">
       <div className="container nav-container">
         <div className="nav-left">
-          <ul className="link-group">
+          {/* <ul className="link-group">
             <li className="hover-link">
               <Link className="link" to="/products?category=comic">
                 Comics
@@ -27,11 +27,11 @@ function Navbar() {
                 Sports
               </Link>
             </li>
-          </ul>
+          </ul> */}
         </div>
         <div className="nav-center">
           <Link to="/">
-            <h1 className="banner">Posterz.</h1>
+            <h1 className="banner">HỌC VIỆN KỸ THUẬT QUÂN SỰ.</h1>
           </Link>
         </div>
         <div className="nav-right">
